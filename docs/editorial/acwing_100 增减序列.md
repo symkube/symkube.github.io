@@ -12,6 +12,9 @@ https://www.acwing.com/problem/content/100/
 - 区间操作
 - 可交换操作/与操作顺序无关(commutative)
 - 势能分析
+- 确定的差值
+- 区间首尾特殊处理
+
 
 
 ```
