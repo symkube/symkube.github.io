@@ -9,6 +9,13 @@ https://atcoder.jp/contests/agc065/editorial/8011
 
 随便一个数据结构能找上一项就行。
 
+## tags：
+
+- mod加性最优化
+- 不变量
+- arg max/min
+- 值域相关
+
 ```
 Contest Duration: 2023-12-17(Sun) 20:00 - 2023-12-17(Sun) 23:00 (local time) (180 minutes)Back to Home
  Top
