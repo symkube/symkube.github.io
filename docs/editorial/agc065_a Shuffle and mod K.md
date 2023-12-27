@@ -16,9 +16,11 @@ https://atcoder.jp/contests/agc065/editorial/8011
 - arg max/min
 - 值域相关
 
-给定了一个长度为$N$的序列$A=\{A_1,A_2,A_3,...,A_N\}$，还给定了一个模数$K$。  
-现在你可以把这个序列以任意方式重新排列，使得重排后的序列$A^\prime$的如下指标最大化，并输出这一指标的数值：
-$$ \sum^{N-1}_{i=1}((A^{\prime}_{i+1}-A^{\prime}_i)\mod K) $$
+给定了一个长度为 $N$ 的序列 $A=\{A_1,A_2,A_3,...,A_N\}$ ，还给定了一个模数 $K$ 。  
+现在你可以把这个序列以任意方式重新排列，使得重排后的序列 $A^\prime$ 的如下指标最大化，并输出这一指标的数值：
+```math
+\sum^{N-1}_{i=1}((A^{\prime}_{i+1}-A^{\prime}_i)\mod K)
+```
 
 ```
 Contest Duration: 2023-12-17(Sun) 20:00 - 2023-12-17(Sun) 23:00 (local time) (180 minutes)Back to Home
