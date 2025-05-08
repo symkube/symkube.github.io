@@ -1,1 +1,23 @@
-1
+url download tensor
+
+datablock
+
+dataloader
+
+tutorial
+
+learner: data loader, object, model
+
+data loaders from label func
+
+table data
+
+graphviz
+
+随机策略
+
+Using a pretrained model for a task different to what it was originally trained for is known as transfer learning. Unfortunately, because transfer learning is so under-studied, few domains have pretrained models available. For instance, there are currently few pretrained models available in medicine, making transfer learning challenging to use in that domain. In addition, it is not yet well understood how to use transfer learning for tasks such as time series analysis.
+
+test、validation
+
+To put it bluntly
