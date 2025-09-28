@@ -512,3 +512,5 @@ merged_b = {**dict1, **dict2}
 
 
 
+list.append(item) 的作用: 这个方法会就地修改 (in-place) 一个列表，将 item 添加到列表的末尾。
+list.append(item) 的返回值: 为了效率和明确性，这个方法不返回修改后的列表，而是返回 None。
